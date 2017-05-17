@@ -1,2 +1,2 @@
 # back-alley
-Eclectic collection of handy tools, that don't fit in other repositories.
+The back alley is my miscellaneous repository, home to an eclectic mix of useful tools and joke scripts.
