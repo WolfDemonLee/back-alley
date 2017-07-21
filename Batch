@@ -3,6 +3,7 @@ Color 0E
 Title Doo-Wop Swap Shop
 
 :Start
+cls
 echo Greetings, %username%.
 echo
 echo
@@ -11,3 +12,4 @@ echo
 echo
 echo What is it that you seek?
 echo Zing!
+pause
