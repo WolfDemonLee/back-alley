@@ -1,0 +1,12 @@
+@Echo off
+Color 0E
+Title Doo-Wop Swap Shop
+
+:Start
+echo Greetings, %username%.
+echo
+echo
+echo You have trvalled long and far to reach this arena.
+echo
+echo
+echo What is it that you seek?
